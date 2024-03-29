@@ -4,5 +4,6 @@ First Sample Web Project using HTML and CSS
 
 ![image](https://github.com/mamaaak/LandingPage/assets/94784271/c0e2184a-498e-4205-be89-a828a5cd465c)
 
-![image](https://github.com/mamaaak/LandingPage/assets/94784271/7ac434f6-a524-4a66-9a78-85d44515c701)
+![image](https://github.com/mamaaak/LandingPage/assets/94784271/2c3d839c-d2a8-47ce-b06c-13decff3a70d)
+
 
