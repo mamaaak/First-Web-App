@@ -1,4 +1,4 @@
-First Sample Web Project using HTML and CSS
+First sample project utilizing HTML and vanilla CSS and Javascript
 
 ![image](https://github.com/mamaaak/LandingPage/assets/94784271/d05e72ea-952b-424c-903a-d2f4bbb4f3fb)
 
